@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8KLpD5JADEuozRv58Oxq9ocDUOEepZKgmm7dNyHNrEKs8yfF/pAEcVA2GN3Y2zzGqtmGj8WB4uLumcgC4SKdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leobo\\Desktop\\Estudos\\Balta.io\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leobo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
